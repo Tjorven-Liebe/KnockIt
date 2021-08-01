@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CoreApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Desktop/Development/Minecraft/Spigot Server/1.8/plugins/CoreApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
