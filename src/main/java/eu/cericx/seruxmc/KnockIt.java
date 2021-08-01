@@ -9,7 +9,6 @@ public class KnockIt extends JavaPlugin {
 
     @Override
     public void onLoad() {
-
         Logger.info("Load Knockit", " ...Register Classes");
     }
 
