@@ -1,7 +1,7 @@
 package de.cericx;
 
-/*
-Flo war hier
+/**
+*@author Flo war hier
 */
 
 public class KnockIt {
